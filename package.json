@@ -21,7 +21,7 @@
     "mediasoup": "^3.6.37",
     "pidusage": "^2.0.18",
     "protoo-server": "^4.0.4",
-    "sctp": "^0.0.19"
+    "sctp": "^0.0.21"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
