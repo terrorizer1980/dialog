@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "mediasoup": "^3.6.37",
     "pidusage": "^2.0.18",
-    "protoo-server": "^4.0.4",
+    "protoo-server": "^4.0.6",
     "sctp": "^0.0.19"
   },
   "devDependencies": {
